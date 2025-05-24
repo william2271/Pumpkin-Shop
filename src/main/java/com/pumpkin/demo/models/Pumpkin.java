@@ -14,5 +14,6 @@ public class Pumpkin {
     @Column(name = "id", nullable = false)
     private Integer id;
     private String name;
+    private Integer amount;
 
 }

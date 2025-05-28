@@ -3,7 +3,7 @@ package com.pumpkin.demo.models;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-
+// The pumpkin table.
 @Getter
 @Setter
 @Entity

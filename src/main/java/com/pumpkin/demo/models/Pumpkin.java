@@ -17,5 +17,6 @@ public class Pumpkin {
     private Integer amount;
     private String description;
     private String color;
+    private String weight;
 
 }

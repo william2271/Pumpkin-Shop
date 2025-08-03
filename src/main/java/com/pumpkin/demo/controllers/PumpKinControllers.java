@@ -25,7 +25,7 @@ public class PumpKinControllers {
     }
 
 
-//Create a new pumpkin
+//Create a new pumpki
     @PostMapping
     public void createPumpkin(@RequestBody Pumpkin pumpkin){
      pumpkinService.createPumpkin(pumpkin);
